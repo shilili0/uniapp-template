@@ -1,0 +1,1 @@
+<view onClick="toPrepayCard">{{a}}</view>
